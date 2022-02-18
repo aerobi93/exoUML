@@ -1,0 +1,19 @@
+{
+  "name": "exouml",
+  "version": "1.0.0",
+  "description": "first exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerobi93/exoUML.git"
+  },
+  "author": "aerobi993",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aerobi93/exoUML/issues"
+  },
+  "homepage": "https://github.com/aerobi93/exoUML#readme"
+}
